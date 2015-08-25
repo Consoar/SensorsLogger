@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Common Color -->
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="alpha">#00000000</color>
+	<color name="wifi_blue">#4d7982</color>
+    <color name="holo_blue">#FF33B5E5</color>
+</resources>
